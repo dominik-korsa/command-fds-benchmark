@@ -1,0 +1,7 @@
+[package]
+name = "command-fds-benchmark"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+command-fds = "0.3.0"
